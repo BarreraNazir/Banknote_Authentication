@@ -2,7 +2,9 @@
 
 Overview
 
-This project consist of three phases
+Banknote authentication plays an important role for the central banks in order to keep the robustness of the financial system world wide, and keeping assurance in confidence documents, mostly banknotes. The whole process are divided in various parts, and then the results of classification are accomplish to achieve the final banknote authentication.
+
+This task consist of three phases
 
 1. Banknote Authentication Dataset:
 
